@@ -25,6 +25,7 @@
 }
 .l-element{
     margin: 15px;
+    margin-left: 0;
 }
 
 .check{
@@ -35,6 +36,12 @@
     height: 20px;
     display: inline-block;
     text-align: center;
+}
+
+.x{
+    color: red;
+    border: 2px solid red;
+
 }
 
 .l-element{
@@ -71,7 +78,7 @@
 
 /* header */
 header{
-    height: 80px;
+    padding: 10px 30px;
     background-color: white;
 }
 
