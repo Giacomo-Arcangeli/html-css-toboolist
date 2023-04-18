@@ -16,6 +16,43 @@
     padding-top: 20px;
 }
 
+.list{
+    margin-left: 40px;
+    list-style-type: none;
+}
+.l-title{
+    font-size: 20px;
+}
+.l-element{
+    
+}
+
+.check{
+    color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.l-element{
+
+}
+
+.post-it{
+    font-size: 12px;
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 5px;
+
+}
+
 /* header */
 header{
     height: 80px;
@@ -23,8 +60,9 @@ header{
 }
 
 #logo{
-    height: 80px;
+    height: 60px;
     vertical-align: middle;
+    display: inline-block;
 }
 
 /* generics */
