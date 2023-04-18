@@ -10,7 +10,7 @@
     max-width: 50%;
     margin: 0 auto;
     background-color: white;
-    height: 600px;
+    height: 580px;
     margin-top: 30px;
     border-radius: 10px;
     padding-top: 20px;
@@ -24,7 +24,7 @@
     font-size: 20px;
 }
 .l-element{
-    
+    margin: 15px;
 }
 
 .check{
@@ -51,6 +51,22 @@
     padding: 5px;
     margin-left: 5px;
 
+}
+
+.c-green{
+    background-color: green;
+}
+
+.c-violet{
+    background-color: blueviolet;
+}
+
+.c-orange{
+    background-color: orange;
+}
+ 
+.c-lime{
+    background-color: lime
 }
 
 /* header */
